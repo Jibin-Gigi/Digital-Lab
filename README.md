@@ -1,1 +1,20 @@
 # Digital-Lab
+
+
+![xor_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/927976d9-ff8e-4790-85a2-cf55ba7c8d5a)
+![xor](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/f38dec3e-de19-4278-b38f-f8ba238c316f)
+![xnor_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/7dd874a5-b93a-446c-b18a-a6afc60fdb0b)
+![xnor](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/d9866d87-9a7f-4911-b24a-5d09b71fd544)
+![or_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/e65cc724-a978-49e3-a3d3-c7f0fd7f601c)
+![or](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/b9f1c9b0-a85b-4ed4-b346-d24b8dd287d3)
+![not_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/599021c2-2982-4b9e-a35e-4d56a08f7135)
+![not](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/05f0073f-53bc-4c8a-9dde-0b5c7f8ff3c3)
+![nor_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/b831812d-a777-4773-96cc-4d582a61ff83)
+![nor](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/26f40f40-cc5f-4399-a3e4-a9eba12d34ce)
+![nand_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/00e97b43-7f07-4541-9313-b33cf3c98d9d)
+![nand](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/9d9b35c4-d08a-4a38-b333-d0e33caa6fd9)
+![halfAdder2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/f3bf5cf1-df61-4a71-b395-6dc578403d8f)
+![halfAdder1](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/65017821-706b-4ebd-8cec-d2a751d829b5)
+![fullAdder1](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/ab7dbccc-b82e-4621-87e7-32d2137cae7d)
+![and_2](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/4710b0a1-ed5b-4d17-ae00-7a7684eab992)
+![and](https://github.com/Jibin-Gigi/Digital-Lab/assets/144718331/5a7c5062-c321-455a-920e-cd1aa129ffd6)
